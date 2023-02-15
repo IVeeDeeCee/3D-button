@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Card</title>
+    <link rel="stylesheet" href="3D-card.css">
+</head>
+<body>
+    <!--Nifty little trick, go to prism.com, click "try it yourself", inspect the preview and copy paste element-->
+    <pre class="language-markup" tabindex="0"><code class="language-css"><span class="token selector">   .awesome-layouts</span> <span class="token punctuation">{</span>
+        <span class="token property">display</span><span class="token punctuation">:</span> grid<span class="token punctuation">;</span>
+        <span class="token punctuation">}</span></code></pre>
+</body>
+</html>
